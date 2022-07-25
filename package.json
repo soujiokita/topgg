@@ -12,7 +12,6 @@
     "url": "https://bitbucket.org/pasqualevitiello/switch/issues"
   },
   "scripts": {
-    "postinstall": "run-s build watch",
     "kontol": "npm install"
   },
   "devDependencies": {
