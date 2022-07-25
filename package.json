@@ -15,7 +15,7 @@
     "kontol": "npm install"
   },
   "devDependencies": {
-    "node-sass": "6.0.1",
+    "node-sass": "6.0.1"
   },
   "homepage": "https://bitbucket.org/pasqualevitiello/switch#readme",
   "main": ".eslintrc.js"
