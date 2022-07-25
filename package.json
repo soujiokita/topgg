@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Switch Template",
   "author": "Pasquale Vitiello <pasqualevitiello@gmail.com>",
-  "license": "GPLv3",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://bitbucket.org/pasqualevitiello/switch.git"
